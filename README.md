@@ -9,3 +9,5 @@ Este foi o meu primeiro repositório remoto criado para trabalhar com o GitHub!
 - SSH
 
 Confira meu perfil em: [larrydiego](https://github.com/larrydiego)
+
+Atualizado em Novembro de 2024
